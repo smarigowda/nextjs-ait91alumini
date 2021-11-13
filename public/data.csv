@@ -1,0 +1,155 @@
+group,variable,value,description
+309,MR,100,MR ready
+309,MR Review,100,Review complete
+309,Merged to Master,100,Merged
+309,Manual Testing,40,Manual testing is in progress...(Sofia)
+309,Cypress Test,100,Cypress tests are not needed
+359,MR,100,ready
+359,MR Review,10,in progress...
+359,Merged to Master,0,Not sure, speak to Tommy
+359,Manual Testing,0,Requies manual testing
+359,Cypress Test,0,Cypress tests are required.
+
+315,MR,100,Ready
+315,MR Review,30,In progress...
+315,Merged to Master,0,Not sure, speak to Tommy
+315,Manual Testing,0,Requies manual testing before merge
+315,Cypress Test,0,Cypress tests are also needed
+
+438,MR,100,Ready
+438,MR Review,30,In progress...
+438,Merged to Master,0,Not sure, speak to Andrew
+438,Manual Testing,0,Requies manual testing before merge
+438,Cypress Test,0,Cypress tests are also needed
+
+437,MR,100,Ready
+437,MR Review,30,In progress...
+437,Merged to Master,0,Not sure, speak to Tommy
+437,Manual Testing,0,Requies manual testing before merge
+437,Cypress Test,0,Cypress tests are also needed
+
+436,MR,100,Ready
+436,MR Review,30,In progress...
+436,Merged to Master,0,Not sure, speak to Tommy
+436,Manual Testing,0,Requies manual testing before merge
+436,Cypress Test,0,Not sure if Cypress tests are needed. Speak to Tommy
+
+371,MR,100,Ready
+371,MR Review,100,Complete
+371,Merged to Master,100,Merged
+371,Manual Testing,100,Testing done by Santosh
+371,Cypress Test,100,Coded, by Santosh
+
+458,MR,100,Ready
+458,MR Review,100,Complete
+458,Merged to Master,100,Merged
+458,Manual Testing,100,Testing done by Santosh
+458,Cypress Test,100,Not needed
+
+526,MR,100,Ready
+526,MR Review,100,Complete
+526,Merged to Master,100,Merged
+526,Manual Testing,100,Testing done by...?
+526,Cypress Test,100,Not needed
+
+431,MR,100,Ready
+431,MR Review,100,Complete
+431,Merged to Master,100,Merged
+431,Manual Testing,100,Testing done by Vlad
+431,Cypress Test,0,Need Cypress tests
+
+281,MR,100,Ready
+281,MR Review,100,Complete
+281,Merged to Master,100,Merged
+281,Manual Testing,100,Testing done by Mensha
+281,Cypress Test,100,Need Cypress tests
+
+523,MR,100,Ready
+523,MR Review,100,Complete
+523,Merged to Master,100,Merged
+523,Manual Testing,0,Check with Tommy
+523,Cypress Test,0,Needs Cypress tests
+
+556,MR,0,Ticket in To Do
+556,MR Review,0,Ticket in To Do
+556,Merged to Master,0,Ticket in To Do
+556,Manual Testing,0,Requires manual testing
+556,Cypress Test,0,Requires Cypress Test
+
+370,MR,50,Ticket in progress
+370,MR Review,0,Ticket in progress
+370,Merged to Master,0,Ticket in progress
+370,Manual Testing,0,Requires manual testing
+370,Cypress Test,0,Requires Cypress Test
+
+403,MR,50,Ticket in progress (Backend Work)
+403,MR Review,0,Ticket in progress
+403,Merged to Master,0,Ticket in progress
+403,Manual Testing,0,Requires manual testing
+403,Cypress Test,100,Do not need Cypress Test
+
+280,MR,50,Ticket in progress (backend config work)
+280,MR Review,0,Ticket in progress
+280,Merged to Master,0,Ticket in progress
+280,Manual Testing,0,Requires manual testing
+280,Cypress Test,100,Do not need Cypress Test
+
+412,MR,50,Ticket in progress (backend config work)
+412,MR Review,0,Ticket in progress
+412,Merged to Master,0,Ticket in progress
+412,Manual Testing,0,Requires manual testing
+412,Cypress Test,100,Do not need Cypress Test
+
+429,MR,50,Ticket is in progress
+429,MR Review,0,Ticket is in progress (Adminsite (AS) restrictions API integration within Browse.)
+429,Merged to Master,0,Ticket is in progress
+429,Manual Testing,0,Requires manual testing
+429,Cypress Test,100,Do not need Cypress Test
+
+416,MR,50,Ticket is in progress
+416,MR Review,0,Ticket is in progress (Restriction decision Map Adminsite vs rule engine)
+416,Merged to Master,0,Ticket is in progress
+416,Manual Testing,0,Requires manual testing
+416,Cypress Test,100,Do not need Cypress Test
+
+405,MR,50,Ticket is in progress (All HTTP requests into the domain must include a custom header attribute named 'x-abcam-app-id')
+405,MR Review,0,Ticket is in progress
+405,Merged to Master,0,Ticket is in progress
+405,Manual Testing,0,Requires manual testing
+405,Cypress Test,50,I do not know if Cypress Test is needed. Discuss with Rui
+
+430,MR,50,Ticket is in progress (Specific delivery date - dates before today should be not available to select. Date will be passed to Oracle on order capture.)
+430,MR Review,0,Ticket is in progress
+430,Merged to Master,0,Ticket is in progress
+430,Manual Testing,0,Requires manual testing
+430,Cypress Test,50,I do not know if Cypress Test is needed. Discuss with GT
+
+504,MR,50,Ticket is in progress
+504,MR Review,0,Ticket is in progress (Mapping for the stock information)
+504,Merged to Master,0,Ticket is in progress
+504,Manual Testing,0,Requires manual testing
+504,Cypress Test,50,I do not know if Cypress Test is needed. Discuss with Victoria
+
+464,MR,50,Ticket is in progress (Refactoring app names)
+464,MR Review,0,Ticket is in progress
+464,Merged to Master,0,Ticket is in progress
+464,Manual Testing,0,Requires manual testing
+464,Cypress Test,0,Cypress Test should pass before merging to master
+
+554,MR,100,Done
+554,MR Review,100,Complete
+554,Merged to Master,100,Complete
+554,Manual Testing,100,Not Applicable
+554,Cypress Test,100,Complete
+
+349,MR,100,Complete (Quick add to basket - Handle error+success responses)
+349,MR Review,100,Complete
+349,Merged to Master,100,Complete
+349,Manual Testing,100,Complete
+349,Cypress Test,100,Cypress Test Ticket. Complete.
+
+358,MR,100,Complete (Contact distributor frontend always succeeds even if the backend request doesn't)
+358,MR Review,100,Complete
+358,Merged to Master,100,Complete
+358,Manual Testing,100,Complete
+358,Cypress Test,0,Cypress test is needed for this ticket.
