@@ -193,3 +193,15 @@ h1 {
   text-align: center;
   font-size: 6rem;
 }
+
+.confirmed-name {
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+  font-size: 5rem;
+}
+
+.confirmed-name:hover {
+  color: blue;
+  background-color: cornsilk;
+}
