@@ -199,9 +199,11 @@ h1 {
   text-align: center;
   padding: 10px;
   font-size: 5rem;
+  transition: all 500ms ease;
 }
 
 .confirmed-name:hover {
   color: blue;
   background-color: cornsilk;
+  font-size: 5.5rem;
 }
