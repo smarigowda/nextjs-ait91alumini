@@ -207,3 +207,11 @@ h1 {
   background-color: cornsilk;
   font-size: 5.5rem;
 }
+
+.notice {
+  color: blue;
+  background-color: #c5a2a2;
+  font-size: 2rem;
+  width: 80%;
+  padding: 25px
+}
